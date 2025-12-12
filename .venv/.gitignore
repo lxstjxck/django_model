@@ -1,0 +1,17 @@
+# Python byte-code and cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+
+# IDE files (example for VS Code)
+.vscode/
+
+# Log files
+*.log
